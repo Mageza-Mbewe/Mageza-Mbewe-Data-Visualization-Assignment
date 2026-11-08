@@ -1,4 +1,5 @@
 # Data Visualization Assignment - Zambia Climate Profile (2021–2025)
+**Course:** Data Visualization and Analytics 
 **Course Code:** ICD5011
 **Student Name:** Mageza Theophilus Thando Mbewe  
 **Student Number:** 202616432
